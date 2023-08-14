@@ -1,0 +1,13 @@
+# local package
+-e .
+
+# external requirements
+click
+Sphinx
+coverage
+awscli==1.29.22
+flake8
+python-dotenv>=0.5.1
+pandas==2.0.3
+pytesseract
+opencv-python
